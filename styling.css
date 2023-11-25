@@ -1,0 +1,22 @@
+body{
+    background: url('./images/background.jpg');
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.container2{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.t1{
+    height: 50vh;
+    width: 50vw;
+    background-image:url('./images/mun.jpeg') cover;
+
+}
